@@ -35,3 +35,5 @@ TODO: Add service & asound config.
 ## Notes & Learnings
 
 Mixing NeoPixels with the Raspberry Pi's onboard 3.5mm audio jack is a pain since they both rely on overlapping PWM. I ended up using a USB audio adapter, at the cost of needing to cram things into my enclosure with very little spare room.
+
+I need to actually learn Python.
